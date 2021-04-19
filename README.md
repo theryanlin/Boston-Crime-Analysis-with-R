@@ -1,8 +1,8 @@
 # Boston-Crime-Analysis-with-R
 
-Authors: Ahmad Fady GANIS, CHE Ning, GUO Yucheng, LI Ben, LIN Tzu Chun (Ryan), YAN Ruiyun
+Authors: LIN Tzu Chun (Ryan), Ahmad Fady GANIS, CHE Ning, GUO Yucheng, LI Ben, YAN Ruiyun
 
-## OVERVIEW
+## Problem Statement
 
 The numbers of records of crime and shootings in Boston increased dramatically from 2019 to 2020. And the crime number is projected to be still maintained at a high level in 2021. Yet the large number of crimes can be related to some reality factors like unemployment, as well as the events such as the COVID-19 or George Freud. It will be important to explore the root of crime and put forward relevant suggestions.
 The objective of this project is to analyze the overall crime data in Boston using descriptive statistics techniques based on the dataset provided by Boston Police Department (BPD). In February 2020, COVID-19 broke out in Boston. In order to compare the impact of COVID-19 on the crime rate in Boston and get the trend of the impact. First, we carefully analyze the crime situation in Boston before 2020, and then we analyze the crime situation in Boston before and after February 2020. If there is a change, use the hypothesis test to analyze the variables that affect the change and use time series to build predictive model to predict the number of crimes in 2021.
